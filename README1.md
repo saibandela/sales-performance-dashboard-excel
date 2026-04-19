@@ -1,4 +1,4 @@
-# FNP Sales Performance Dashboard
+# 📊 FNP Sales Performance Dashboard
 
 An Excel-based sales analytics dashboard for Ferns N Petals (FNP) that consolidates order data across products, occasions, and cities to provide real-time performance insights and drive revenue optimization.
 
@@ -122,11 +122,11 @@ This project demonstrates proficiency in Excel analytics, dashboard design, and 
 
 ## 👤 Author
 
-**Vinay Sai**  
+**Bandela Sai**  
 Business Analyst | Excel Analytics | Data Visualization
 
-- [GitHub](https://github.com/vinaysai7)
-- [LinkedIn](https://www.linkedin.com/in/bandela-vinay-babu)
+- [GitHub](https://github.com/saibandela)
+- [LinkedIn](https://www.linkedin.com/in/saibabu-bandela)
 
 ---
 
